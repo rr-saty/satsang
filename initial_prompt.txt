@@ -1,0 +1,5 @@
+I have a website satsang.satyajeettiwari.online, when someone opens it, it must ask for a password: RadheRadhe...........after entering RadheRadhe, then only that person can land into the website
+
+I want to build an automation,,,,,,, in the slot of time:- 12:00 Noon to 1:00 PM (IST), I want a notification in telegram using botfather for 1 hour satsang video of premanand ji maharaj, look there should be multiple youtube videos embedded in satsang.satyajeettiwari.online
+
+the time slot triggers in google apps script, then notification comes in telegram, in the telegram message, there should be link of my website and videos location in my website
