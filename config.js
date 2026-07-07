@@ -1,5 +1,5 @@
 const CONFIG = {
-  YOUTUBE_API_KEY: '',
+  YOUTUBE_API_KEY: 'AIzaSyDOu-uXpLfvackXTdgRtAc4Dzs6qfrHbDQ',
   CHANNELS: [
     { id: 'UCEk1jBxAl6fe-_G37G7huQA', name: 'Bhajan Marg' },
     { id: 'UCW9f2fkWtCMe5lZDyiuGzEA', name: 'Guru Kripa Kevalam' },
